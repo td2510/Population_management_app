@@ -28,7 +28,7 @@ import javax.swing.JTextPane;
 
 /**
  *
- * @author Hai
+ * 
  */
 public class DanhSachHocSinh extends javax.swing.JFrame {
 

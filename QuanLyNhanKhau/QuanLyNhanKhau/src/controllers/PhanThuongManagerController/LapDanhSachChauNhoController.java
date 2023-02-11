@@ -37,7 +37,7 @@ import views.infoViews.InfoJframe;
 
 /**
  *
- * @author Hai
+ * 
  */
 
 // lop thuc hien cac chuc nang trong giao dien them moi nhan khau

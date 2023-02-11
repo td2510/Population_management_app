@@ -15,7 +15,7 @@ import models.NhanKhauModel;
 
 /**
  *
- * @author Hai
+ * 
  */
 public class PeopleChangeJFrame extends javax.swing.JFrame {
 

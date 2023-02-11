@@ -18,7 +18,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Bằng
+ * 
  */
 public class PhanThuongPanel extends javax.swing.JPanel {
 	private PhanThuongPanelController controller = null;
