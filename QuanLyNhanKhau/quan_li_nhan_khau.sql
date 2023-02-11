@@ -611,8 +611,8 @@ ALTER TABLE `le_tet`
 --
 -- Indexes for table `lich_su_thay_doink`
 --
-ALTER TABLE `lich_su_thay_doink`
-  ADD PRIMARY KEY (`ID`);
+-- ALTER TABLE `lich_su_thay_doink`
+  -- ADD PRIMARY KEY (`ID`);
 
 --
 -- Indexes for table `nam_hoc`
