@@ -14,10 +14,7 @@ import javax.swing.JOptionPane;
 import models.ThanhVienCuaHoModel;
 import services.NhanKhauService;
 
-/**
- *
- * @author Hào Nguyễn Quốc
- */
+
 public class ChangeHoKhau extends javax.swing.JFrame {
 
     private JFrame parentJFrame;
