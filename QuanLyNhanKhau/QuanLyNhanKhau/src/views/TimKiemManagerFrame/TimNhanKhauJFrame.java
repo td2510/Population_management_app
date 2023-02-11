@@ -14,7 +14,7 @@ import controllers.TimKiemManagerController.TimNhanKhauController;
 
 /**
  *
- * @author User
+ * 
  */
 public class TimNhanKhauJFrame extends javax.swing.JFrame {
 

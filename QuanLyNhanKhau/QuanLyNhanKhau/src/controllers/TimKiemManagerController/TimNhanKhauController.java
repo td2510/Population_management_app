@@ -27,7 +27,7 @@ import views.infoViews.InfoJframe;
 
 /**
  *
- * @author Hai
+ * 
  */
 public class TimNhanKhauController {
     private JComboBox tieuChi1Jcb;

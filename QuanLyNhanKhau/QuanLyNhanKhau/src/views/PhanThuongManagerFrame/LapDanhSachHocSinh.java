@@ -26,7 +26,7 @@ import services.StringService;
 
 /**
  *
- * @author Hai
+ * 
  */
 public class LapDanhSachHocSinh extends javax.swing.JFrame {
 
