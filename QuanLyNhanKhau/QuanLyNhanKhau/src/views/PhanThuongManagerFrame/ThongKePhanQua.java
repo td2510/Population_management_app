@@ -29,7 +29,7 @@ import javax.swing.JTextPane;
 
 /**
  *
- * @author Hai
+ * 
  */
 public class ThongKePhanQua extends javax.swing.JFrame {
 

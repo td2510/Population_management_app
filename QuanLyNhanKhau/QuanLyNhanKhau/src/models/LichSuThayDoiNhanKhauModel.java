@@ -2,7 +2,7 @@ package models;
 import java.util.Date;
 
 /*
- * @author Bang Nguyen Trong
+ * 
  * 
  */
 

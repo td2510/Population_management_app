@@ -42,7 +42,7 @@ import views.PhanThuongManagerFrame.SuaPhanQua;
 
 /**
  *
- * @author Hai
+ * 
  */
 public class DanhSachHocSinhController {
     

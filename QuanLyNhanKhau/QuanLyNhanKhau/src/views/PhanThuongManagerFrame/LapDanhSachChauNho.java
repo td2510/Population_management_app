@@ -28,7 +28,7 @@ import java.awt.event.ActionEvent;
 
 /**
  *
- * @author Hai
+ * 
  */
 public class LapDanhSachChauNho extends javax.swing.JFrame {
 
