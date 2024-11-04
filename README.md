@@ -1,5 +1,4 @@
-# DoubleF
-Population management and reward software
+# Population management and reward software
 
 • Login interface
 
