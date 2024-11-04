@@ -1,10 +1,6 @@
 # DoubleF
 Phần mềm quản lí nhân khẩu và phát phần thưởng
 
-Author:
-- Phạm Văn Duy
-- Đinh Thanh Tùng
-
 • Giao diện login
 
   ![image](https://github.com/user-attachments/assets/78d58729-783f-41d2-ad1c-d3d5a6279931)
